@@ -1,0 +1,8 @@
+likes_everything.datmake_user(
+    'Rickety Me',      # name
+    [                   # reviews
+
+    make_review('Cross Roads', 100.0)
+
+    ]
+)
